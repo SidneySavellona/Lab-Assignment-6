@@ -2,7 +2,7 @@
 
 Improve the following codes to implement SOLID principles in OOP.
 
-*Order*
+*Order.java*
 
     public interface Order {
     
@@ -15,7 +15,7 @@ Improve the following codes to implement SOLID principles in OOP.
       void sendEmailNotification(String email);
     }
     
-*OrderAction*
+*OrderAction.java*
 
     public class OrderAction implements Order {
     
@@ -44,7 +44,7 @@ Improve the following codes to implement SOLID principles in OOP.
       }
     }
 
-*OrderTest*
+*OrderTest.java*
 
     public class OrderTest {
     

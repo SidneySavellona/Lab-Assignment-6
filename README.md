@@ -59,6 +59,7 @@ Improve the following codes to implement SOLID principles in OOP.
       }
     }
 
-![Blank diagram (9)](https://github.com/SidneySavellona/Lab-Assignment-6/assets/153743474/aefc135d-c2fe-4f42-995f-8bf97ebfe108)
 
 
+
+![Blank diagram (10)](https://github.com/SidneySavellona/Lab-Assignment-6/assets/153743474/9499b841-7fc4-4c9e-86db-51cf1bce1684)
